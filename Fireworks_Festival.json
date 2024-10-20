@@ -1,0 +1,95 @@
+{
+    "name": "Fireworks_Festival",
+    "description": "A playful and vibrant theme with a fireworks display and colorful cats.",
+    "version": "1.0",
+    "color": "#4B0082",
+    "authors": [
+        {
+            "name": "CreativeThemes"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#00008B"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#191970"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2F4F4F"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4B0082"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFF00"
+        ],
+        "TEXT_PRIMARY": [
+            "#FFD700"
+        ],
+        "TEXT_MUTED": [
+            "#87CEEB"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#008B8B"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#00FFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#00BFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "HEADER_PRIMARY": [
+            "#00008B"
+        ],
+        "HEADER_SECONDARY": [
+            "#191970"
+        ],
+        "CHANNEL_ICON": [
+            "#4B0082"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#87CEEB"
+        ],
+        "CHAT_BACKGROUND": [
+            "#00008B"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#191970"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#2F4F4F"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#00008B"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#191970"
+        ],
+        "BG_BACKDROP": [
+            "#00008B"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#00008B",
+        "PRIMARY_600": "#191970",
+        "PRIMARY_700": "#2F4F4F",
+        "PRIMARY_800": "#4B0082",
+        "YELLOW_300": "#FFFF00",
+        "YELLOW_400": "#FFD700",
+        "GREEN_600": "#87CEEB",
+        "GREEN_700": "#008B8B",
+        "GREEN_800": "#00FFFF",
+        "GREEN_900": "#00BFFF",
+        "WHITE_500": "#808080"
+    },
+    "background": {
+        "blur": 0.5,
+        "url": "https://example.com/fireworks-background.jpg",
+        "alpha": 0.7
+    },
+    "color": "#4B0082"
+}
