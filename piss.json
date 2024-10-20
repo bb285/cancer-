@@ -1,0 +1,180 @@
+{
+    "name": "piss",
+    "description": "actual cancer.",
+    "authors": [
+        {
+            "name": "Bryan",
+            "id": "719283297955610686"
+        }
+    ],
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#6786CA",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FF00FF"
+        ],
+        "HEADER_SECONDARY": [
+            "#00FF00"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFF00"
+        ],
+        "TEXT_PRIMARY": [
+            "#00FFFF"
+        ],
+        "TEXT_MUTED": [
+            "#FF0000"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#0000FF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#FF8C00"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#8A2BE2"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#C0C0C0"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#808080"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#800080"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#F0F0F0"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#D3D3D3"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#A9A9A9"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#008080"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "rgba(255, 255, 0, 0.4)"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#00FFFF"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#FF00FF"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00FF00"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#FFFF00"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#0000FF"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#008000"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#000080"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#800000"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#000080"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#FF00FF"
+        ],
+        "TEXT_LINK": [
+            "#00FF00"
+        ],
+        "TEXT_DANGER": [
+            "#FFFF00"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#00FFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#FFFFFF"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#C0C0C0"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#808080"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#808080"
+        ],
+        "BG_BACKDROP": [
+            "04010173"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#FF00FF",
+        "PRIMARY_100": "#00FF00",
+        "PRIMARY_200": "#8A2BE2",
+        "PRIMARY_230": "#FFFF00",
+        "PRIMARY_300": "#0000FF",
+        "PRIMARY_360": "#800080",
+        "PRIMARY_400": "#008000",
+        "PRIMARY_600": "#FFFFFF",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_645": "#FFFFFF",
+        "PRIMARY_660": "#FFFFFF",
+        "PRIMARY_700": "#FFFFFF",
+        "PRIMARY_800": "#000000",
+        "PLUM_1": "#FF00FF",
+        "PLUM_3": "#00FF00",
+        "PLUM_6": "#0000FF",
+        "PLUM_9": "#FFFF00",
+        "PLUM_10": "#808080",
+        "PLUM_11": "#000000",
+        "PLUM_13": "#800080",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000",
+        "PLUM_24": "#000000",
+        "BRAND_260": "#8A2BE2",
+        "BRAND_360": "#800080",
+        "BRAND_500": "#FF00FF",
+        "BRAND_560": "#00FF00",
+        "YELLOW_300": "#0000FF",
+        "YELLOW_260": "#0000FF",
+        "GREEN_600": "#FFFFFF",
+        "GREEN_360": "#FF00FF",
+        "RED_400": "#800000",
+        "WHITE_500": "#000000"
+    },
+    "background": {
+        "blur": 0.5,
+        "alpha": 0.7
+    },
+    "color": "#00FF00"
+}
